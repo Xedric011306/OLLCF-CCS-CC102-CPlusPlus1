@@ -1,7 +1,11 @@
-# CC102
-Fundamentals of Programming Using C++ Language
-School Year 2024-2025, First Semester
+#include <iostream>
 
-I will be uploading sample codes here for my C++ 1 Tutorial
+using namespace std;
 
-Stay-tuned.
+int main()
+{
+	cout << "HOWDY LOURDENIAN PROGRAMMERS ";
+	
+	
+	return 0;
+}
